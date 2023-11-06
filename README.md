@@ -1,6 +1,6 @@
 # Car Parking Space Detection and Monitoring
 
-![Parking Lot](parking_lot.jpg)
+![Parking Lot](https://github.com/Awrsha/Simple-Parking-Space-Counter/assets/89135083/eaf5cc9c-027e-42c8-9efc-f97ac3edc465)
 
 ## Overview
 
